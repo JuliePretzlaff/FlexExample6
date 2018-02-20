@@ -1,0 +1,17 @@
+﻿.form{
+    display:flex;
+}
+.form__field {
+    flex: 1;
+    margin: 10px;
+}
+button{
+    background-color: cornflowerblue;
+    color: navy;
+    font-weight: bold;
+    border-color:navy;
+    margin: 5px;
+}
+.form__item {
+    color: navy;
+}
